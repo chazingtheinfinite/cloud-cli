@@ -1,5 +1,7 @@
-clear
 ls -la
 pwd
 python ./scripts/hello.py
 ./scripts/ssh-cmd.sh squeue
+cp ../dir1/file1.txt ../dir2/
+cp -r ../dir1/ .
+wc -l ../dir3/*

@@ -1,5 +1,5 @@
 #!/usr/bin/python
-""" cli-over-db.py
+""" cloud-cli.py
 Author: Kevin Dick
 Date: 2018-02-08
 ---
