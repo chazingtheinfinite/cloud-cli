@@ -1,1 +1,4 @@
 clear
+ls -la
+pwd
+python ./scripts/hello.py
